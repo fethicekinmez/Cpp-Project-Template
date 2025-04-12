@@ -2,7 +2,7 @@
 #include <iostream>
 
 int main() {
-    int a = 29;
+    int a = 299;
     int b = 199;
     std::cout << "Hello World, This is a test" << std::endl;
     int c = a+b;
