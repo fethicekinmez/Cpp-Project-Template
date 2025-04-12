@@ -6,5 +6,7 @@ int main() {
     int b = 99;
     std::cout << "Hello World, This is a test" << std::endl;
     int c = a+b;
-    std::cout << c << std::endl;    
+    int d = a*b;
+    std::cout << c << std::endl;
+    std::cout << d << std::endl;    
 }
